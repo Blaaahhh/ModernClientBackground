@@ -13,25 +13,15 @@ Credits go to DevilBro for making his theme.
 
 # Adding a Background Image
 1. Open the `ModernClientBackground.theme.css` file with any text editor. Recommended one: VisualStudioCode.
-2. Paste a direct image link in this line of code `--background:							url(PASTE THE IMAGE LINK IN THIS BRACKET!);`
+2. Paste a direct image link in this line of code `--background: url(PASTE THE IMAGE LINK IN THIS BRACKET!);`
 3. Your background image has been replaced. Congratulations! You can also edit additional settings in the CSS file.
 
-Replace the code line with this code, if you want to have the background shown in the Screenshot section: ` --background:							url(https://images8.alphacoders.com/129/1296002.jpg);` 
+Replace the code line with this code, if you want to have the background shown in the Screenshot section: ` --background: url(https://images8.alphacoders.com/129/1296002.jpg);` 
 Sadly, I couldn't find the original author of this fanart. If anyone knows the creator, please DM me on Discord.
 
 # Adding a Custom Font
 1. Open the `ModernClientBackground.theme.css` file with any text editor.
-2. Use this format to change fonts: `"gg sans"`, `"Delfino"`, etc. in these lines of code:
-
-`	--font-primary: 						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-display: 						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-headline: 						"ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-code: 							"gg mono", "Source Code Pro", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
-    --font-clan-body: 						Fraunces, "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-clan-signature: 					Corinthia, "gg sans", cursive, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-display-marketing: 				"ABC Ginto Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-display-marketing-header: 		"ABC Ginto Nord Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;`
-
+2. Use this format to change fonts: `"gg sans"`, `"Delfino"`, etc. in these lines of code in `--font-primary: "gg sans", [...]` for instance.
 3. Beware that you have to use the full font name of the installed font on your computer, otherwise it will not work!
 4. Your desired font has been replaced. Congratulations! You can also additionally change the font colours in the CSS file.
 
