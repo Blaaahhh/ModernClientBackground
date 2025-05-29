@@ -1,5 +1,5 @@
 # Modern Client Background
-A Discord theme that allows to change your background. This theme doesn't alter the main layout of Discord.
+A Discord theme that allows to change your background. This theme doesn't alter the main layout of Discord. It's based on [BasicBackground](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground), credits go to DevilBro.
 
 # Screenshots
 Main Page:
