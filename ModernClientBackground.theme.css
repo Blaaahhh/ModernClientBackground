@@ -50,7 +50,7 @@
 	--memberlisttransparency:					0.5;				/* default: 0.5					(additional darkness for member list)							*/
 	--accentcolor:							0, 0, 0;			/* default: 0, 0, 0				(RGB-format - blurple: 88, 101, 242 bd-blue: 58, 113, 193)				*/
 	
-	--background:							url(https://images8.alphacoders.com/129/1296002.jpg);	/* general background image				*/
+	--background:							url(https://preview.colorkit.co/color/32343d.png);	/* general background image				*/
 	--backgroundposition:						center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:						cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:						0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
