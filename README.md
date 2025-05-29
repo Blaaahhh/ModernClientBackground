@@ -51,7 +51,7 @@ Discovery Page:
 
 ![screenshot7](https://github.com/Vadenimo2k21/ModernClientBackground/blob/main/screenshots/screenshotDiscovery.png)
 
-# Ryou Yamada and Kikuri Hirori Fanart Background
+# Ryou Yamada and Kikuri Hiroi Fanart Background
 Use that line of code for the background: `--background: url(https://images8.alphacoders.com/129/1296002.jpg);`.
 Sadly, I couldn't find the original author of this fanart. If anyone knows the creator, please DM me on Discord.
 Original credits for the Bocchi The Rock! characters go to Aki Hamaji, and CloverWorks Inc.
