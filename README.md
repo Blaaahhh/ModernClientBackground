@@ -18,7 +18,7 @@ Credits go to DevilBro for making his theme.
 
 # Adding a Custom Font
 1. Open the `ModernClientBackground.theme.css` file with any text editor.
-2. Use this format to change fonts: `"gg sans"`, `"Delfino"`, etc. in these lines of code in `--font-primary: "gg sans", [...]` for instance.
+2. Use this format to change fonts: `"gg sans"`, `"Delfino"`, etc. in the `--font-x "NAME OF FONT", [...]` lines of code. Example given: `--font-primary: "gg sans", [...]`.
 3. Beware that you have to use the full font name of the installed font on your computer, otherwise it will not work!
 4. Your desired font has been replaced. Congratulations! You can also additionally change the font colours in the CSS file.
 
