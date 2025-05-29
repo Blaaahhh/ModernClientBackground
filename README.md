@@ -16,8 +16,7 @@ Credits go to DevilBro for making his theme.
 2. Paste a direct image link in this line of code `--background: url(PASTE THE IMAGE LINK IN THIS BRACKET!);`
 3. Your background image has been replaced. Congratulations! You can also edit additional settings in the CSS file.
 
-If you want to have my background, use that line:
-`--background: url(https://images8.alphacoders.com/129/1296002.jpg);`.
+If you want to have my background, use that line: `--background: url(https://images8.alphacoders.com/129/1296002.jpg);`.
 Sadly, I couldn't find the original author of this fanart. If anyone knows the creator, please DM me on Discord.
 
 # Adding a Custom Font
