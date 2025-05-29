@@ -11,6 +11,10 @@ Credits go to DevilBro for making his theme.
 4. Drag and Drop `ModernClientBackground.theme.css` into your `themes` folder.
 5. You are able to change the background, have fun!
 
+# Adding a Background Image
+
+# Adding a Custom Font
+
 # Screenshots
 Server/Group Chat:
 
