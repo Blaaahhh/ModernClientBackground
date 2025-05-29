@@ -16,9 +16,6 @@ Credits go to DevilBro for making his theme.
 2. Paste a direct image link in this line of code `--background: url(PASTE THE IMAGE LINK IN THIS BRACKET!);`
 3. Your background image has been replaced. Congratulations! You can also edit additional settings in the CSS file.
 
-If you want to have my background, use that line: `--background: url(https://images8.alphacoders.com/129/1296002.jpg);`.
-Sadly, I couldn't find the original author of this fanart. If anyone knows the creator, please DM me on Discord.
-
 # Adding a Custom Font
 1. Open the `ModernClientBackground.theme.css` file with any text editor.
 2. Use this format to change fonts: `"gg sans"`, `"Delfino"`, etc. in these lines of code in `--font-primary: "gg sans", [...]` for instance.
@@ -53,3 +50,8 @@ Shop page:
 Discovery Page:
 
 ![screenshot7](https://github.com/Vadenimo2k21/ModernClientBackground/blob/main/screenshots/screenshotDiscovery.png)
+
+# Ryou Yamada and Kikuri Hirori Fanart Background
+Code: `--background: url(https://images8.alphacoders.com/129/1296002.jpg);`.
+Sadly, I couldn't find the original author of this fanart. If anyone knows the creator, please DM me on Discord.
+Original credits for the Bocchi The Rock! characters go to Aki Hamaji, and CloverWorks Inc.
