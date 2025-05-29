@@ -6,7 +6,7 @@ Credits go to DevilBro for making his theme.
 
 # Installation
 1. Download the `ModernClientBackground.theme.css` file.
-2. Open up Vencord, go to its settings.
+2. Open up Vencord, go to the settings.
 3. Open the Themes tab, open your `themes` folder.
 4. Drag and Drop `ModernClientBackground.theme.css` into your `themes` folder.
 5. You are able to change the background, have fun!
