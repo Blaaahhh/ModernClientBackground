@@ -50,10 +50,19 @@
 	--memberlisttransparency:					0.5;				/* default: 0.5					(additional darkness for member list)							*/
 	--accentcolor:							0, 0, 0;			/* default: 0, 0, 0				(RGB-format - blurple: 88, 101, 242 bd-blue: 58, 113, 193)				*/
 	
-	--background:							url(https://preview.colorkit.co/color/32343d.png);	/* general background image				*/
+	--background:							url(https://images8.alphacoders.com/129/1296002.jpg);	/* general background image				*/
 	--backgroundposition:						center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:						cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:						0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
+
+	--font-primary: 						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
+    --font-display: 						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
+    --font-headline: 						"ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
+    --font-code: 							"gg mono", "Source Code Pro", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace; /* default: "gg mono", "Source Code Pro", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace */
+    --font-clan-body: 						Fraunces, "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: Fraunces, "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
+    --font-clan-signature: 					Corinthia, "gg sans", cursive, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: Corinthia, "gg sans", cursive, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
+    --font-display-marketing: 				"ABC Ginto Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: "ABC Ginto Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
+    --font-display-marketing-header: 		"ABC Ginto Nord Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: "ABC Ginto Nord Discord", "gg sans", serif, "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
 	
 	--popout:							var(--background);		/* default: var(--background)			(change to use another background/color for modals/popouts)				*/
 	--popoutposition:						var(--backgroundposition);	/* default: center				(position of popout - values: [center/top/right/bottom/left])				*/
