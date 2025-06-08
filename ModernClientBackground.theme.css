@@ -53,7 +53,7 @@
 	--background:							url(https://media1.tenor.com/m/R7yuMErSM1QAAAAC/mari-omori-omori.gif);	/* general background image				*/
 	--backgroundposition:						center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:						cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
-	--backgroundblur:						0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
+	--backgroundblur:						20;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
 
 	--font-primary: 						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
     	--font-display: 						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* default: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif */
